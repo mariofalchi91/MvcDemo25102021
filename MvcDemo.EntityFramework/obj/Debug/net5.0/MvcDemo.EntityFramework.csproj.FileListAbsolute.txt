@@ -1,0 +1,17 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.EntityFramework.deps.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.EntityFramework.runtimeconfig.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.EntityFramework.runtimeconfig.dev.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\ref\MvcDemo.EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.EntityFramework.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\bin\Debug\net5.0\MvcDemo.Core.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.AssemblyInfo.cs
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\ref\MvcDemo.EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.EntityFramework\obj\Debug\net5.0\MvcDemo.EntityFramework.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\bin\Debug\net5.0\MvcDemo.Core.deps.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\bin\Debug\net5.0\MvcDemo.Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\bin\Debug\net5.0\ref\MvcDemo.Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\bin\Debug\net5.0\MvcDemo.Core.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.AssemblyInfoInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.AssemblyInfo.cs
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\ref\MvcDemo.Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\MvcDemo\MvcDemo.Core\obj\Debug\net5.0\MvcDemo.Core.pdb
